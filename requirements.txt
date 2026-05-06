@@ -25,3 +25,5 @@ python-dotenv                  # Load API keys from .env
 # Utilities
 lxml                           # HTML/XML parser for BS4
 httpx                          # Async HTTP (used internally by mistral)
+
+streamlit
