@@ -1,0 +1,27 @@
+# ─────────────────────────────────────────
+# Multi-Agent Research System
+# ─────────────────────────────────────────
+
+# LangChain core (LCEL, Runnables, Agents)
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+
+# ReAct Agent
+langgraph
+
+# Mistral LLM
+mistralai
+
+# Tools
+tavily-python                  # Tavily search tool
+beautifulsoup4                 # Web scraping
+requests                       # HTTP requests for BS4
+
+# Environment & Config
+python-dotenv                  # Load API keys from .env
+
+# Utilities
+lxml                           # HTML/XML parser for BS4
+httpx                          # Async HTTP (used internally by mistral)
